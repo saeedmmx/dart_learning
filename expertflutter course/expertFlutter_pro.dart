@@ -1,25 +1,5 @@
-/*
-void main() {
-  bool iHaveCar = true;
-  bool iHaveBike = false;
 
-  if (iHaveBike || iHaveCar) {
-    print('You can drive.');
-  }
-}
-*/
-/* 
-void main() {
-  int moneyInBank = 100;
-  int moneyInPocket = 50;
 
-  if (moneyInBank > 150 && moneyInPocket > 20) {
-    print('You can start this project.');
-  } else {
-    print('With this amount of money you should continue your previous work.');
-  }
-}
-*/
 /* 
 if( 12 < variable < 22){}   // It's not possible. You must use '&&' logical operator.
  */
