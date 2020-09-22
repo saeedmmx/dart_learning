@@ -1,8 +1,6 @@
 
 
-/* 
-if( 12 < variable < 22){}   // It's not possible. You must use '&&' logical operator.
- */
+
 /* 
 void main() {
   var numberList = [8, 10, 2, 11, 5, 9];

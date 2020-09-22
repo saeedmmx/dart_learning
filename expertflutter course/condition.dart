@@ -1,5 +1,6 @@
 // if condition
 
+// example 1
 /*
 void main() {
   bool iHaveCar = true;
@@ -11,6 +12,7 @@ void main() {
 }
 */
 
+// example 2
 /* 
 void main() {
   int moneyInBank = 100;
@@ -22,4 +24,13 @@ void main() {
     print('With this amount of money you should continue your current job.');
   }
 }
+*/
+
+// example 3
+/* 
+var variable = 15;
+if( 12 < variable < 22){}   // It's not possible. You must use '&&' logical operator.
+if(12 < variable && variable < 22){
+  print(variable);
+}  // This is true.
 */
