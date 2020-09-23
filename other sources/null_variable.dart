@@ -1,5 +1,6 @@
 // dealing with null values.
 
+// example 1
 /* 
 void main() {
   String name1; // name1 is non-nullable
@@ -12,6 +13,7 @@ void main() {
 }
  */
 
+// example 2
 /* 
 void main() {
   int? capacity;
@@ -23,6 +25,7 @@ void main() {
 }
  */
 
+// example 3
 /* 
 void main() {
   String? userName;

@@ -1,5 +1,6 @@
 // Use a function in another function.
 
+// example 1
 /* 
 void main() {
   print(multiplyNumber());
