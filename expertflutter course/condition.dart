@@ -12,7 +12,7 @@ void main() {
 }
 */
 
-// example 2
+// example 2: '&&' logical operator
 /* 
 void main() {
   int moneyInBank = 100;
@@ -26,7 +26,7 @@ void main() {
 }
 */
 
-// example 3
+// example 3: '&&' logical operator
 /* 
 var variable = 15;
 if( 12 < variable < 22){}   // It's not possible. You must use '&&' logical operator.
