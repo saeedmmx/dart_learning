@@ -2,34 +2,8 @@
 
 
 
-/* 
-import 'dart:math';
 
-void main() {
-  int a = 5;
-  int b = 3;
 
-  num result = pow(a, b);
-  print(result);
-}
- */
-/* 
-void main() {
-  if (canYouDrive(23)) {
-    print('You can drive.');
-  } else {
-    print('You can\'t drive.');
-  }
-}
-
-bool canYouDrive(int age) {
-  if (age >= 18) {
-    return true;
-  } else {
-    return false;
-  }
-}
-*/
 /* void main() {
   List<double> scores = [12, 17, 15, 11, 7, 4, 2];
   if (averageScore(scores) >= 10) {

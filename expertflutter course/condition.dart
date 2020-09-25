@@ -34,3 +34,22 @@ if(12 < variable && variable < 22){
   print(variable);
 }  // This is true.
 */
+
+// example 4
+/* 
+void main() {
+  if (canYouDrive(23)) {
+    print('You can drive.');
+  } else {
+    print('You can\'t drive.');
+  }
+}
+
+bool canYouDrive(int age) {
+  if (age >= 18) {
+    return true;
+  } else {
+    return false;
+  }
+}
+*/
