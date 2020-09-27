@@ -34,3 +34,44 @@ if(12 < variable && variable < 22){
   print(variable);
 }  // This is true.
 */
+
+// example 4: if, function
+/* 
+void main() {
+  if (canYouDrive(23)) {
+    print('You can drive.');
+  } else {
+    print('You can\'t drive.');
+  }
+}
+
+bool canYouDrive(int age) {
+  if (age >= 18) {
+    return true;
+  } else {
+    return false;
+  }
+}
+*/
+
+// example 5: function, for in, if, list
+/* void main() {
+  List<double> scores = [12, 17, 15, 11, 7, 4, 2];
+  if (averageScore(scores) >= 10) { 
+    // It was better to save the returned value in a variable for reducing calculation
+    print('You passed this term.');
+    print('You average is: ${averageScore(scores)}');
+  } else {
+    print('You failed this term.');
+    print('You average is: ${averageScore(scores)}');
+  }
+}
+
+double averageScore(List<double> scores) {
+  double sumOfScores = 0;
+  for (var element in scores) {
+    sumOfScores += element;
+  }
+  return sumOfScores / scores.length;
+}
+ */

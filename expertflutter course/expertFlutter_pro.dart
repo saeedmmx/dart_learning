@@ -2,42 +2,8 @@
 
 
 
-/* 
-void main() {
-  if (canYouDrive(23)) {
-    print('You can drive.');
-  } else {
-    print('You can\'t drive.');
-  }
-}
 
-bool canYouDrive(int age) {
-  if (age >= 18) {
-    return true;
-  } else {
-    return false;
-  }
-}
-*/
-/* void main() {
-  List<double> scores = [12, 17, 15, 11, 7, 4, 2];
-  if (averageScore(scores) >= 10) {
-    print('You passed this term.');
-    print('You average is: ${averageScore(scores)}');
-  } else {
-    print('You failed this term.');
-    print('You average is: ${averageScore(scores)}');
-  }
-}
 
-double averageScore(List<double> scores) {
-  double sumOfScores = 0;
-  for (var element in scores) {
-    sumOfScores += element;
-  }
-  return sumOfScores / scores.length;
-}
- */
 /* void main() {
   final myName = 'Saman khoobi';
 
