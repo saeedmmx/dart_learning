@@ -4,26 +4,8 @@
 
 
 
-/* void main() {
-  final myName = 'Saman khoobi';
 
-  print(myName.length);
-}
- */
-/* void main() {
-  final name = 'Amir';
-  final nameLength = name.length;
-  print(nameLength);
 
-  const productName = 'pillow';
-  const productNameLength = productName.length; // It is possible because productName is a constant variable.
-  print(productNameLength);
-
-  final lastName = 'miri';
-  const lastNameLength = lastName.length; // const variable must be initialized with a constant value.
-  print(productNameLength);
-}
- */
 /* void main() {
   String str_1 = '';
   print(str_1);
