@@ -33,3 +33,15 @@
     print(str_4);
   }
 */
+
+// example 3
+/*  
+void main() {
+  String? name;
+  //String myName = name; //error. two different types. String & String?
+  String myName = name ?? 'saman';  // ?? : if null
+  print(myName);
+}
+*/
+
+// example 4
