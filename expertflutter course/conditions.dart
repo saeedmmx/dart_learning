@@ -75,3 +75,5 @@ double averageScore(List<double> scores) {
   return sumOfScores / scores.length;
 }
  */
+
+// example 6:
