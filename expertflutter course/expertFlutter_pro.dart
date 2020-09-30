@@ -8,26 +8,8 @@
 
 
 
-/* void main() {
-  int? mojoodi;
-  // connect to the internet and get the mojoodi.
-  // You can do some other works.
-  // Now check the mojoodi. was it successful getting the mojoodi from the net or it's still null?
-  if (mojoodi == null) {
-    print('Getting the mojoodi from the internet was unsuccessful.');
-  } else {
-    print('Your mojoodi is: $mojoodi');
-    // and do what else you want to do with mojoodi.
-  }
-}
- */
-/*  void main() {
-  String? name;
-  //String myName = name; //error. two different types. String & String?
-  String myName = name ?? 'saman';  // ?? : if null
-  print(myName);
-}
- */
+
+
 /* void main() {
   String? name;
   // String nameIsNull = '';
