@@ -7,28 +7,17 @@
 
 
 
-/*
-  // first: 
-  //print(str_4.length);  // cause error.
 
-  // second:
-  if (str_4 == null) {
-    print('error');
-  } else {
-    print(str_4);
-  }
-}
- */
 /* void main() {
-  int? mojoodi;
-  // connect to the internet and get the mojoodi.
+  int? capacity;
+  // connect to the internet and get the capacity.
   // You can do some other works.
-  // Now check the mojoodi. was it successful getting the mojoodi from the net or it's still null?
-  if (mojoodi == null) {
-    print('Getting the mojoodi from the internet was unsuccessful.');
+  // Now check the capacity. was it successful getting the capacity from the net or it's still null?
+  if (capacity == null) {
+    print('Getting the capacity from the internet was unsuccessful.');
   } else {
-    print('Your mojoodi is: $mojoodi');
-    // and do what else you want to do with mojoodi.
+    print('Your capacity is: $capacity');
+    // and do what else you want to do with capacity.
   }
 }
  */

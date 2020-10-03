@@ -18,9 +18,27 @@ void main() {
 
   String? str_4 = null;
   print(str_4);  // It will print null
-
-  // compare these two situations. Dart compiler is intelligent. 
-  // when we checked with if condition, it removed the error.
 }
 */
+
+// example 2
+/*
+  // compare these two situations. Dart compiler is intelligent. 
+  // when we checked with if condition, it removed the error.
+  
+void main(){
+  // first: 
+  //print(str_4.length);  // cause error.
+
+  // second:
+  if (str_4 == null) {
+    print('error');
+  } else {
+    print(str_4);
+  }
+}
+ */
+
+// example 3
+
 
