@@ -10,19 +10,7 @@
 
 
 
-/* void main() {
-  String? name;
-  // String nameIsNull = '';
-  // if (name == null) {
-  //   nameIsNull = 'yes';
-  // } else {
-  //   nameIsNull = 'no';
-  // }
 
-  String nameIsNull = name == null ? 'yes' : 'no';  // This line is equal with above lines.
-  print(nameIsNull);
-}
- */
 /* void main() {
   addNumber(12, 44); // Positional parameter
   multiplyNumbers(num1: 5, num2: 3); // Named parameter
@@ -78,11 +66,7 @@ void fullNameV3({required String firstName, String? lastName}) {
   print('$firstName $lastName');
 }
  */
-/* void main() {
-  String name = '';
-  print(name.runtimeType);
-}
- */
+
 /* void main() {
   address('Iran', 'Tehran', avenue: 'siami');
   address('Iran', 'Tehran',

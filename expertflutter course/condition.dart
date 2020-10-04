@@ -71,3 +71,18 @@ void main() {
  */
 
 // example 6
+/* 
+void main() {
+  String? name;
+  String nameIsNull = '';
+  if (name == null) {
+    nameIsNull = 'yes';
+  } else {
+    nameIsNull = 'no';
+  }
+  
+  // This line is equal with above lines.
+  String nameIsNull = name == null ? 'yes' : 'no';  
+  print(nameIsNull);
+}
+*/
