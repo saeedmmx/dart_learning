@@ -1,22 +1,4 @@
 
-/* void main() {
-  fullNameV1(firstName: 'shiva');
-  fullNameV2(firstName: 'mina');
-  fullNameV3(firstName: 'mina', lastName: 'mashhadi');
-}
-
-void fullNameV1({required String firstName, String lastName = 'kamali'}) {
-  print('$firstName $lastName');
-}
-
-void fullNameV2({required String firstName, String? lastName}) {
-  print('$firstName $lastName');
-}
-
-void fullNameV3({required String firstName, String? lastName}) {
-  print('$firstName $lastName');
-}
- */
 
 
 
