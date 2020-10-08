@@ -54,3 +54,18 @@ void productName({String brand = 'SAMSUNG', String model = 'A52'}) {
 } 
 */
 
+// example 5
+/* 
+void main() {
+  address('Iran', 'Tehran', avenue: 'siami');
+  address('Iran', 'Tehran',
+      street: 'tajrish', avenue: 'siami', buildingNumber: 22);
+}
+
+void address(String country, String city,
+    {String street = 'roodaki', required String avenue, int? buildingNumber}) {
+  print(
+      'Your address is: $country - $city - $street - $avenue - $buildingNumber');
+}
+*/
+

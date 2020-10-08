@@ -18,18 +18,7 @@ void fullNameV3({required String firstName, String? lastName}) {
 }
  */
 
-/* void main() {
-  address('Iran', 'Tehran', avenue: 'siami');
-  address('Iran', 'Tehran',
-      avenue: 'siami', street: 'tajrish', buildingNumber: 22);
-}
 
-void address(String country, String city,
-    {String street = 'roodaki', required String avenue, int? buildingNumber}) {
-  print(
-      'Your address is: $country - $city - $street - $avenue - $buildingNumber');
-}
- */
 
 // OOP
 
