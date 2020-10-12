@@ -24,4 +24,24 @@ class Car {
 }
  */
 
-// example 2
+// example 2: 'this' keyword
+/* 
+void main() {
+  Car car = Car();
+  car.plateNumber = 'E12X44';
+  car.printPlak();
+}
+
+class Car {
+  String? color;
+  String? modelNumber;
+  int? speed;
+  String? plateNumber;
+
+  void printPlak() {
+    print('Your car platenumber is: ' + this.plateNumber!);
+  }
+}
+*/
+
+// example 3
