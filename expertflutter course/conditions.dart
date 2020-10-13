@@ -60,10 +60,10 @@ bool canYouDrive(int age) {
   if (averageScore(scores) >= 10) { 
     // It was better to save the returned value in a variable for reducing calculation
     print('You passed this term.');
-    print('You average is: ${averageScore(scores)}');
+    print('Your average is: ${averageScore(scores)}');
   } else {
     print('You failed this term.');
-    print('You average is: ${averageScore(scores)}');
+    print('Your average is: ${averageScore(scores)}');
   }
 }
 
