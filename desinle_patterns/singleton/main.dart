@@ -10,6 +10,8 @@ void main() {
 
   print(db.hashCode == db2.hashCode);
 
+  db.test();
+
   // sampling without singleton
   DataCenter dc = DataCenter();
   DataCenter dc2 = DataCenter();

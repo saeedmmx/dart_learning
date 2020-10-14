@@ -10,6 +10,10 @@ class Database {
     }
     return _instance!;
   }
+
+  void test() {
+    print('for test');
+  }
 }
 
 // without singleton
